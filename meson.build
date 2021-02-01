@@ -1,5 +1,6 @@
 project('com.github.gasparinzsombor.helloagain', 'vala', 'c')
 
+
 executable(
     meson.project_name(),
     'src/Application.vala',
